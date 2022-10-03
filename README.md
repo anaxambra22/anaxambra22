@@ -3,7 +3,3 @@ SGA consiste em ser um jogo de puzzle que retrata a história de Levi, um rapaz 
 
 # Trailer do Jogo
 <img width="450" src= "https://github.com/anaxambra22/anaxambra22/blob/main/README/Trailer.gif" >
-
-# Mais Informações
-<img align="center" src=" " alt="Informações"/>
-<a href="https://www.canva.com/design/DAFNp6VJQpk/XP52_0sqNSW0zMjvhRm4_g/view?utm_content=DAFNp6VJQpk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" radical ="_blank">
